@@ -1,0 +1,5 @@
+F:\XAVICA\dotnetworks\DevTeam_Solution\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\XAVICA\dotnetworks\DevTeam_Solution\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\XAVICA\dotnetworks\DevTeam_Solution\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+F:\XAVICA\dotnetworks\DevTeam_Solution\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\XAVICA\dotnetworks\DevTeam_Solution\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

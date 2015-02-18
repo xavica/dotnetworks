@@ -47,8 +47,9 @@ namespace MyApp
             Console.WriteLine("{0} was computed in {1} seconds", pi, ts.TotalSeconds);
             //double[] addThese={1.1,2.2,3.3,4.4};
             Console.WriteLine("Sum of the given numbers is " + calc.AddTheseNumbers(1.1, 2.2, 3.3, 4.4));
+            Console.WriteLine("please press enter once");
             Console.ReadLine();
-
+            
            ////using icar interface
             ICar[] cars = {new M3(), new Polo(),};
             foreach (ICar car in cars)

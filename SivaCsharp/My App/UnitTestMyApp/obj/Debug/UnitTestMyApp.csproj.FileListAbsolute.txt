@@ -7,3 +7,5 @@ C:\Users\Siva\Documents\Visual Studio 2013\Projects\My App\UnitTestMyApp\bin\Deb
 C:\Users\Siva\Documents\Visual Studio 2013\Projects\My App\UnitTestMyApp\obj\Debug\UnitTestMyApp.csprojResolveAssemblyReference.cache
 C:\Users\Siva\Documents\Visual Studio 2013\Projects\My App\UnitTestMyApp\obj\Debug\UnitTestMyApp.dll
 C:\Users\Siva\Documents\Visual Studio 2013\Projects\My App\UnitTestMyApp\obj\Debug\UnitTestMyApp.pdb
+G:\xavica\dotnetworks\SivaCsharp\My App\UnitTestMyApp\obj\Debug\UnitTestMyApp.csprojResolveAssemblyReference.cache
+G:\xavica\dotnetworks\SivaCsharp\My App\UnitTestMyApp\obj\Debug\UnitTestMyApp.dll

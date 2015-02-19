@@ -1,0 +1,5 @@
+G:\xavica\dotnetworks\SivaCsharp\My App\Program2\bin\Debug\Program2.exe
+G:\xavica\dotnetworks\SivaCsharp\My App\Program2\bin\Debug\Program2.pdb
+G:\xavica\dotnetworks\SivaCsharp\My App\Program2\obj\Debug\Program2.csprojResolveAssemblyReference.cache
+G:\xavica\dotnetworks\SivaCsharp\My App\Program2\obj\Debug\Program2.exe
+G:\xavica\dotnetworks\SivaCsharp\My App\Program2\obj\Debug\Program2.pdb

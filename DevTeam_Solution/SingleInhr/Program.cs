@@ -9,6 +9,7 @@ namespace SingleInhr
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is Single inheritance:Teacher -> Student");
             Teacher d = new Teacher();
             d.Teach();
             Student s = new Student();

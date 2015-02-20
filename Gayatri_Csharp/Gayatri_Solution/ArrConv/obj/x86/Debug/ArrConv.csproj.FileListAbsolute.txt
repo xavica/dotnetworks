@@ -1,0 +1,7 @@
+F:\XAVICA\dotnetworks\Gayatri_Csharp\Gayatri_Solution\ArrConv\bin\Debug\ArrConv.exe
+F:\XAVICA\dotnetworks\Gayatri_Csharp\Gayatri_Solution\ArrConv\bin\Debug\ArrConv.pdb
+F:\XAVICA\dotnetworks\Gayatri_Csharp\Gayatri_Solution\ArrConv\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XAVICA\dotnetworks\Gayatri_Csharp\Gayatri_Solution\ArrConv\obj\x86\Debug\ArrConv.exe
+F:\XAVICA\dotnetworks\Gayatri_Csharp\Gayatri_Solution\ArrConv\obj\x86\Debug\ArrConv.pdb
+F:\XAVICA\dotnetworks\Gayatri_Csharp\Gayatri_Solution\ArrConv\bin\Debug\My_Library_G.dll
+F:\XAVICA\dotnetworks\Gayatri_Csharp\Gayatri_Solution\ArrConv\bin\Debug\My_Library_G.pdb

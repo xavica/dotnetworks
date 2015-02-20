@@ -1,0 +1,7 @@
+F:\XAVICA\dotnetworks\DevTeam_Solution\Indexes\bin\Debug\Indexes.exe
+F:\XAVICA\dotnetworks\DevTeam_Solution\Indexes\bin\Debug\Indexes.pdb
+F:\XAVICA\dotnetworks\DevTeam_Solution\Indexes\bin\Debug\ClassLibrary1.dll
+F:\XAVICA\dotnetworks\DevTeam_Solution\Indexes\bin\Debug\ClassLibrary1.pdb
+F:\XAVICA\dotnetworks\DevTeam_Solution\Indexes\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XAVICA\dotnetworks\DevTeam_Solution\Indexes\obj\x86\Debug\Indexes.exe
+F:\XAVICA\dotnetworks\DevTeam_Solution\Indexes\obj\x86\Debug\Indexes.pdb

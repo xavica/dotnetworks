@@ -6,3 +6,5 @@ C:\Users\Siva\Documents\Visual Studio 2013\Projects\My App\My Library\obj\Debug\
 G:\xavica\dotnetworks\SivaCsharp\My App\My Library\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
 G:\xavica\dotnetworks\SivaCsharp\My App\My Library\obj\Debug\My Library.dll
 G:\xavica\dotnetworks\SivaCsharp\My App\My Library\obj\Debug\My Library.pdb
+G:\xavica\dotnetworks\SivaCsharp\My App\My Library\bin\Debug\My Library.dll
+G:\xavica\dotnetworks\SivaCsharp\My App\My Library\bin\Debug\My Library.pdb

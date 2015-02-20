@@ -42,7 +42,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calculator.cs" />
-    <Compile Include="Car.cs" />
     <Compile Include="ICar.cs" />
     <Compile Include="M3.cs" />
     <Compile Include="Polo.cs" />

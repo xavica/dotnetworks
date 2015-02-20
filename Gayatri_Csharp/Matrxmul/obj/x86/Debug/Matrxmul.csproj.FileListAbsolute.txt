@@ -1,5 +1,0 @@
-F:\XAVICA\dotnetworks\DevTeam_Solution\Matrxmul\obj\x86\Debug\ResolveAssemblyReference.cache
-F:\XAVICA\dotnetworks\DevTeam_Solution\Matrxmul\bin\Debug\Matrxmul.exe
-F:\XAVICA\dotnetworks\DevTeam_Solution\Matrxmul\bin\Debug\Matrxmul.pdb
-F:\XAVICA\dotnetworks\DevTeam_Solution\Matrxmul\obj\x86\Debug\Matrxmul.exe
-F:\XAVICA\dotnetworks\DevTeam_Solution\Matrxmul\obj\x86\Debug\Matrxmul.pdb

@@ -1,7 +1,0 @@
-F:\XAVICA\dotnetworks\DevTeam_Solution\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
-F:\XAVICA\dotnetworks\DevTeam_Solution\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
-F:\XAVICA\dotnetworks\DevTeam_Solution\ConsoleApplication2\bin\Debug\ClassLibrary1.dll
-F:\XAVICA\dotnetworks\DevTeam_Solution\ConsoleApplication2\bin\Debug\ClassLibrary1.pdb
-F:\XAVICA\dotnetworks\DevTeam_Solution\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
-F:\XAVICA\dotnetworks\DevTeam_Solution\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
-F:\XAVICA\dotnetworks\DevTeam_Solution\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb

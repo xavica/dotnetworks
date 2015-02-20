@@ -1,2 +1,0 @@
-F:\XAVICA\dotnetworks\DevTeam_Solution\C1\obj\x86\Debug\C1.exe
-F:\XAVICA\dotnetworks\DevTeam_Solution\C1\obj\x86\Debug\C1.pdb

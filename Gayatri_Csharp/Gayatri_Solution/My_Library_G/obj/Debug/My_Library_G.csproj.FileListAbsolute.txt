@@ -1,0 +1,5 @@
+F:\XAVICA\dotnetworks\Gayatri_Csharp\Gayatri_Solution\My_Library_G\bin\Debug\My_Library_G.dll
+F:\XAVICA\dotnetworks\Gayatri_Csharp\Gayatri_Solution\My_Library_G\bin\Debug\My_Library_G.pdb
+F:\XAVICA\dotnetworks\Gayatri_Csharp\Gayatri_Solution\My_Library_G\obj\Debug\ResolveAssemblyReference.cache
+F:\XAVICA\dotnetworks\Gayatri_Csharp\Gayatri_Solution\My_Library_G\obj\Debug\My_Library_G.dll
+F:\XAVICA\dotnetworks\Gayatri_Csharp\Gayatri_Solution\My_Library_G\obj\Debug\My_Library_G.pdb

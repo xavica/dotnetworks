@@ -1,5 +1,0 @@
-F:\XAVICA\dotnetworks\DevTeam_Solution\SingleInhr\bin\Debug\SingleInhr.exe
-F:\XAVICA\dotnetworks\DevTeam_Solution\SingleInhr\bin\Debug\SingleInhr.pdb
-F:\XAVICA\dotnetworks\DevTeam_Solution\SingleInhr\obj\x86\Debug\ResolveAssemblyReference.cache
-F:\XAVICA\dotnetworks\DevTeam_Solution\SingleInhr\obj\x86\Debug\SingleInhr.exe
-F:\XAVICA\dotnetworks\DevTeam_Solution\SingleInhr\obj\x86\Debug\SingleInhr.pdb

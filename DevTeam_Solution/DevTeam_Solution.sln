@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexes", "Indexes\Indexes.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrxmul", "Matrxmul\Matrxmul.csproj", "{D8E624CE-D390-407D-B21F-B243A648DF16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleInhr", "SingleInhr\SingleInhr.csproj", "{E105700D-653E-49FA-B2D0-A7EA6ACE13AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,16 @@ Global
 		{D8E624CE-D390-407D-B21F-B243A648DF16}.Release|Mixed Platforms.Build.0 = Release|x86
 		{D8E624CE-D390-407D-B21F-B243A648DF16}.Release|x86.ActiveCfg = Release|x86
 		{D8E624CE-D390-407D-B21F-B243A648DF16}.Release|x86.Build.0 = Release|x86
+		{E105700D-653E-49FA-B2D0-A7EA6ACE13AF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E105700D-653E-49FA-B2D0-A7EA6ACE13AF}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E105700D-653E-49FA-B2D0-A7EA6ACE13AF}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E105700D-653E-49FA-B2D0-A7EA6ACE13AF}.Debug|x86.ActiveCfg = Debug|x86
+		{E105700D-653E-49FA-B2D0-A7EA6ACE13AF}.Debug|x86.Build.0 = Debug|x86
+		{E105700D-653E-49FA-B2D0-A7EA6ACE13AF}.Release|Any CPU.ActiveCfg = Release|x86
+		{E105700D-653E-49FA-B2D0-A7EA6ACE13AF}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E105700D-653E-49FA-B2D0-A7EA6ACE13AF}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E105700D-653E-49FA-B2D0-A7EA6ACE13AF}.Release|x86.ActiveCfg = Release|x86
+		{E105700D-653E-49FA-B2D0-A7EA6ACE13AF}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

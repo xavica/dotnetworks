@@ -1,0 +1,5 @@
+G:\xavica\dotnetworks\SivaCsharp\My App\Collections\bin\Debug\Collections.exe
+G:\xavica\dotnetworks\SivaCsharp\My App\Collections\bin\Debug\Collections.pdb
+G:\xavica\dotnetworks\SivaCsharp\My App\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+G:\xavica\dotnetworks\SivaCsharp\My App\Collections\obj\Debug\Collections.exe
+G:\xavica\dotnetworks\SivaCsharp\My App\Collections\obj\Debug\Collections.pdb
